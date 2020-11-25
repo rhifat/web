@@ -152,6 +152,7 @@ Known issues / Roadmap
 * Implement a more efficient way of refreshing timeline after a record update;
 * Make `attrs` attribute work;
 * Make action attributes work (create, edit, delete) like in form and tree views.
+* If you are using this module in odoo application running on docker container, restart conatiner after installing the module.
 
 Bug Tracker
 ===========
